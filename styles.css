@@ -1,0 +1,11 @@
+.borders{
+    border:1rem solid black;
+    }
+    
+    .icon-size{
+        height: 25px;
+        width: 25px;
+    }
+    .img-size{
+    max-width: 100%;
+    }
